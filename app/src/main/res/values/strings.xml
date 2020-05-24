@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Hackaton</string>
+    <string name="password">סיסמא</string>
+    <string name="id">ת.ז.</string>
+    <string name="re_password">הזן סיסמא שנית</string>
+    <string name="not_registered"><u>לא רשום? הרשם!</u></string>
+    <string name="img_logo_desc">לוגו</string>
+    <string name="login">כניסה</string>
+    <string name="register">הרשם</string>
+    <string name="name">שם מלא</string>
+    <string name="email">אימייל</string>
+    <string name="address">כתובת מגורים</string>
+    <string name="tel">מספר טלפון</string>
+    <string name="api_key">surstrubjecalleffirbeeds</string>
+    <string name="api_secret">ad192e0a35d83eae12470e0e7aa61fcdbe519338</string>
+    <string name="api_gw">09d1db72–9c09–41ba–a945–5731f3c7fe60-bluemix</string>
+    <string name="api_db">donor</string>
+</resources>
